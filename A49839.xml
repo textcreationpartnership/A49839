@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something concerning my convincement of God's truth the way, work &amp; manner thereof.</title>
+            <author>Laythes, Thomas, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49839</idno>
+            <idno type="STC">Wing L754</idno>
+            <idno type="STC">ESTC R24138</idno>
+            <idno type="EEBO-CITATION">07953614</idno>
+            <idno type="OCLC">ocm 07953614</idno>
+            <idno type="VID">40714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1209:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something concerning my convincement of God's truth the way, work &amp; manner thereof.</title>
+                  <author>Laythes, Thomas, d. 1701.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Thomas Laythes.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Praise of God.</term>
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40714:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>Something Concerning my Convincement OF GOD'S TRUTH, THE <hi>Way, Work</hi> &amp; <hi>Manner</hi> thereof.</head>
+            <p>MANY Years I ſpent in the World, before I was much convinced of the evil of many things I then did; living in <hi>Pride</hi> and <hi>Pleaſure,</hi> and ſatisfying my vain Mind therein, not much ſeeking or deſiring af<g ref="char:EOLhyphen"/>ter the things of God, having little of any Form or Profeſſion of Godlineſs, and much leſs of the Power thereof; and herein I may ſtill admire the great Mercy of God, in that he did not cut me off in this time of my Sin and Tranſgreſſion, but gave me time to Repent. And this was my State and Condition for many Years; till about the Year 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>55. I begun to take notice of ſome Profeſſors about <hi>Keſwicke</hi> in <hi>Cumberland;</hi> and looking upon them as more like to be the People of God then thoſe I had formerly been
+<pb n="2" facs="tcp:40714:2"/>
+               <!-- PDF PAGE 7 -->amongſt; I frequented their Meetings, and walked with them after the ſtric<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt manner, for about four Years, in all thing pertaining to Religion and Worſhip, as I was then per<g ref="char:EOLhyphen"/>ſwaded; yet towards the latter end of that time, I felt my Spirit much diſſatisfied, as to Religion and Worſhip, in many things which we then practiſed; and the more I thought and pondered in my Mind thereupon, the more did my diſſatiſ<g ref="char:EOLhyphen"/>faction grow upon me, inſomuch that at length I did queſtion both that Miniſtry and Worſhip, which we then owned, whether it was the true Miniſtry and Worſhip or not; and all thoſe our Religious Practices, whether God would accept of them or not; being done, as I then feared, out of that Spirit which gives acceptance with the Lord, and ſo but wil-worſhip; and though we had the form of Godlineſs, yet I doubted whether we had the true power or no, being not redeemed out of the Spirit of the World; but ſtill living in the Forms, Faſhions and Cuſtoms thereof, being much perſwaded in my Heart that there was a People nearer the Lord then we were, and did enjoy more of his Power and Preſence then we did; and thus my Heart and Mind did with-draw from that People more and more, and enclined much after them People call'd <hi>Quakers;</hi> and the more I did obſerve and take notice of them, and their Behaviour, Life and Converſation, the more did my Love and good deſires grow and encreaſe unto them; being much perſwaded in my Heart that they were the Peo<g ref="char:EOLhyphen"/>ple of God, though I had little diſcourſe with any of them, or ever been at any of their Meetings; but often when I read the Scriptures, and the Saints, Conditions there record<g ref="char:EOLhyphen"/>ed, I thought in my Heart they were likeſt the People there ſpoken of, and then my Spirit travelled to be with them, though very unwilling to leave thoſe People that I had ſo long been in Fellowſhip with. And thus I travelled under great weight and preſſure of Spirit for many Days, Weeks,
+<pb n="3" facs="tcp:40714:2"/>
+               <!-- PDF PAGE 7 -->Months, if not Years; ſometimes ſecretly ſaying in my Heart, I had rather die with this People (meaning the Profeſſors) then leave them, if I could believe that God would accept of what we did, and great was that Love and Affection I had for natural Relations. And this was my State and Condition a long time, being unwilling to give up in anſwer to Gods requirings, and deny ſelf, and take up the Croſs, vvhich made my Travel both longer and harder; which at length the Profeſſors perceiving, &amp; thinking that I was like to leave them, endeavoured to keep me amongſt them as long as they could, and did uſe their beſt Arguments to that effect; ſometimes in Love, and otherwiſe, in telling what great danger there was in joyning with ſuch a People as were deluded, as they would ſay; but when they did ſee that all they could do would not prevail, then they begun to threaten me with Excommunica<g ref="char:EOLhyphen"/>tion, telling me of the fearful and horrid Sentence thereof; which afterwards they proceeded unto, pronouncing the Sentence of Excommunication, as they call'd it; [but Mark] this was not done until they were without any hope of my continuing with them, and then they would pretend to caſt me out from amongſt them, when they could keep me no longer; and when <hi>James Cave</hi> their Paſtor, ſo call'd, had pronounced Sentence againſt me, he ſpoke to one <hi>Richard Waterſon,</hi> call'd a Deacon, to put me forth from amongſt them, where they were met, which he did accordingly; but what hath befaln him ſince, and for what cauſe is beſt known unto the Lord alone: I wiſh he may be ſenſible of his own Condition, repent of his Sins, and find Mercy with the Lord: And herein I witneſs Chriſts Words fulfilled, <hi>Bleſſed are ye when men ſhall hate you, and when they ſhall ſeperate you from their Company, and ſhall reproach you, and caſt out your Names, as evil, for the Son of mans ſake: Rejoyce you in that day, and leap for Joy, for behold your Reward is great in Heaven, for
+<pb n="4" facs="tcp:40714:3"/>
+                  <!-- PDF PAGE 8 -->in the like manner did their Fathers unto the Prophets,</hi> Luke 6.22, 23. And how feelingly have I witneſſed that Scrip<g ref="char:EOLhyphen"/>ture fulfilled <hi>Iſa.</hi> 66.5. <hi>Here the Word of the Lord ye that trem<g ref="char:EOLhyphen"/>ble at his Word, your Brethren that hated you, that caſt you out, for my Names ſake, ſaid let the Lord be glorified; but he ſhall appear to your joy, and they ſhall be aſhamed.</hi> And ſure this was my Condition in that day.</p>
+            <p>Yet after all this, greatly was I exerciſed, being ſeveral times moved to go to their places of Worſhip where <hi>James Cave</hi> was, and that in much weakneſs of Body, having neither eaten Bread, nor any other Food, unleſs a little Water ſometimes, for many days: And at one of their Chappels I did warn <hi>James Cave</hi> not to go away and leave that People which he had profeſſed himſelf Paſtor to, nor when Suffer<g ref="char:EOLhyphen"/>ings were like to come on; laying ſeveral things before him, which might draw him from them,
+<list>
+                  <item>1ſt. <hi>Fear of Perſecution and Sufferings:</hi>
+                  </item>
+                  <item>2dly <hi>Doubting of Maintenance according to his mind:</hi>
+                  </item>
+                  <item>3dly <hi>The perſwaſion of natural Friends and Relations, as to Wife and others.</hi>
+                  </item>
+               </list>
+Yet notwithſtanding all this, not long after he went away, and left that People for many Years, whether they would ſtand or fall, and ſoon after they gave over their accuſtomed Meetings, and fell away.</p>
+            <p>And at another time I declared Chriſts Words to <hi>James Cave,</hi> (in another of their Chappels, before the Auditors) <hi>Mat.</hi> 7.24.25, 26, and 27. Speaking of the <hi>Wiſe man that built his Houſe upon a Rock, and the Rain deſcended, and the Floods came, and the Winds blew, and beat upon that Houſe, and it fell not, for it was founded upon a Rock: But the fooliſh man built his Houſe upon the Sand, and the Rain deſcended, and the Floods came, and the Winds blew, and beat upon that Houſe, and it fell, and great was the fall of it.</hi> And it is plain and evident what their Building was upon, which if it had been upon a Rock, doubtleſs would have ſtood, but being upon
+<pb n="5" facs="tcp:40714:3"/>
+               <!-- PDF PAGE 8 -->the Sand, is fallen, ruinate, and not viſible; therefore let ſee what they build upon, for it is that Church built up the Rock, againſt which the Gates of Hell do not preva<gap reason="illegible: page cropped" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> Glory to our God forever.</p>
+            <p>But to return again to my own State and Condition. In t<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Year 1659. I went firſt among Friends, and to Friends Me<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ings, and though I was much perſwaded in my Heart a<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mind of Truths way, and that they were the People God; yet by being converſant amongſt them and freque<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Meetings, I was much confirmed and ſtrengthened in m<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former Faith.</p>
+            <p>And as for my Convincement of Gods Eternal Truth, a the work and manner thereof, which was much in my E<gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> at the firſt, this, I ſay, was a ſecret, inward and ſpiritu<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Work, vvrought upon my Heart and Soul by the effectu<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vvorking and operation of the holy Divine Spirit of Go<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and much vvithout the help of outvvard means, or outvva<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inſtrument, though ſome did endeavour it; but the vvo<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was the Lords, and to him alone be the Praiſe and Glo<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forever.</p>
+            <p>And if I here declare what God hath done for my So<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and made me a vvitneſs of, both in the time of my Convin<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, and ſince, I knovv it vvill be hard to be believed b<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many; but this I may ſay, oh the travel in Spirit Day an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Night, the many great and vveighty Exerciſes both invvard<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and outvvardly, the Watches, the Faſts for ſeven Days, for ni<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Days, for ten Days, and for fourteen Days, unleſs only <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little Water ſometimes; and the laſt day thereof I travell<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> five miles to a Meeting, and as far back again that d<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on foot, and this vvas in the Year 1661. beſides at man<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other time and times, even ſuch vvas that great deſire th<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was begotten in my Heart after God, and love to him abo<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all natural and viſible things, though being at the very poi<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:40714:4"/>
+               <!-- PDF PAGE 9 -->
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>Death, in my own apprehenſion, and ſcarce diſcerning whe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er in the Body or out of the Body, my Viſage more altered <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en many in that day; inſomuch that ſome of my familiar <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cquaintance have ſaid, <hi>There's none looks like him;</hi> for indeed <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Lord did chaſten me ſore, though he hath not given me <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver unto Death, but in, and through, and over all hath <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſed me up, and fully ſatisfied my Soul for Religion for ever.</p>
+            <p>Having often richly pertaken of Gods Living Power and Divine Preſence in our bleſſed Aſſemblies and Meetings, and <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t many other times, which to me is an evident token that <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he God of Heaven is our God, and that we are his People; <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Pearl of great price hath been found and purchaſed, <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough with the loſs of all, and the Truth bought, which I <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope, can never be ſold, nor parted with for all the Worlds <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaſures, Delights and Pleaſures; and now after all thoſe <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrowful Days, and mournful Nights, great is that Peace <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Comfort that is enjoyed by many in the Lord. And as <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itherto a faithful Teſtimony hath been born for God and <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Truth, ſo it is my Belief and Confidence, that in the <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rength of the Lord, I ſhall continue unto the end, waiting <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith and Patience for that bleſſed Reward of an eternal <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd everlaſting Inheritance of reſt and Peace with God the <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather, and his eternal Son Jeſus Chriſt, and that for evermore.</p>
+            <p>And now God Almighty, for the continuance of thy Love <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Goodneſs, which thou haſt made my Soul ſenſible of, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in that thou haſt made me any way ſerviceable in thy <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch, and amongſt thy People, now in the declining time <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Age, and when my Eyes are growing dim; oh how <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt thou hereby engaged my Heart, Soul and Spirit to Bleſs <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd praiſe thy great and holy Name.</p>
+            <p>
+               <pb n="7" facs="tcp:40714:4"/>
+               <!-- PDF PAGE 9 -->
+And oh thou Living and Eternal God, as hitherto thou haſt made me ſenſible of thy great Power, and admirable, wonderful Works; oh do thou evermore keep me; keep me, that my Heart and Spirit may never withdraw nor depart from thee; but keep me, keep me, near and cloſe unto thee, even unto the end, that I may Bleſs, and Praiſe and Magni<g ref="char:EOLhyphen"/>fie thy great and holy Name, both now and forever, and for<g ref="char:EOLunhyphen"/>evermore, Amen.</p>
+            <closer>
+               <signed>From one who hath rather choſen to ſuffer Affliction with the People of God, then enjoy the pleaſures of Sin for a ſeaſon, <hi>Thomas Laythes</hi>
+               </signed> 
+               <dateline>From <hi>Dailehead</hi> near <hi>Keſ<g ref="char:EOLhyphen"/>wicke</hi> in <hi>Cumberland,</hi> 
+                  <date>the 18th 10th Month, 1686.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
